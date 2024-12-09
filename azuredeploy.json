@@ -323,7 +323,7 @@
                                     "Content-Type": "application/json"
                                 },
                                 "method": "POST",
-                                "uri": "https://events.pagerduty.com/v2/enqueue"
+                                "uri": "https://events.eu.pagerduty.com/v2/enqueue"
                             }
                         },
                         "Initialize_Entities": {
